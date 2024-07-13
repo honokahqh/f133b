@@ -23,10 +23,10 @@ rules.mk
 !/device/config/chips
 
 /device/config/chips/*
-!/device/config/chips/f133-a
+!/device/config/chips/f133-b
 
-/device/config/chips/f133-a/*
-!/device/config/chips/f133-a/configs
+/device/config/chips/f133-b/*
+!/device/config/chips/f133-b/configs
 
-/device/config/chips/f133-a/configs/*
-!/device/config/chips/f133-a/configs/evb1
+/device/config/chips/f133-b/configs/*
+!/device/config/chips/f133-b/configs/evb1
